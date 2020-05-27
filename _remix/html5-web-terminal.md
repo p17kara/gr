@@ -12,7 +12,7 @@ tags:
 
 <p data-height="350" data-theme-id="17517" data-slug-hash="OyJzZq" data-default-tab="result" data-user="p17kara" class='codepen'>
   See the Pen <a href='https://codepen.io/p17kara/pen/WNQByBE'> 
-  Simple terminal </a> by p17kara (<a href="https://codepen.io/p17kara">@p17kara</a>)
+  HTML5 terminal </a> by p17kara (<a href="https://codepen.io/p17kara">@p17kara</a>)
   on <a href='http://codepen.io'>CodePen</a>.</span>
 </p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
